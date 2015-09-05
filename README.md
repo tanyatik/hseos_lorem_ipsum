@@ -37,4 +37,5 @@ lorem_ipsum.1.txt1 lorem_ipsum.2.txt lorem_ipsum.3.txt lorem_ipsum.4.txt lorem_i
 
 Подсказка: Вам понадобятся команды git add, git commit, git push.
 
-10. Ссылку на созданный fork отправить на почту tanyatik@yandex.ru до 10 сентября 23:59.
+10. Открыть репозиторий на Github в браузере и убедиться, что все ваши изменения там отражены.
+Ссылку на созданный репозиторий отправить на почту tanyatik@yandex.ru до 10 сентября 23:59.
